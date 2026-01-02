@@ -1,3 +1,50 @@
+================================================================================
+                                   MOONLENS
+                         Screen Translation Software
+================================================================================
+
+MoonLens is a lightweight screen translation tool for Windows that allows you
+to capture any area of your screen and instantly translate the text within it.
+
+--------------------------------------------------------------------------------
+                                   FEATURES
+--------------------------------------------------------------------------------
+
+  • Screen area selection with instant OCR text recognition
+  • Real-time translation powered by Google Translate
+  • Support for multiple languages:
+      - Source languages: English, Spanish (more coming soon)
+      - Target languages: English, Spanish, Japanese, Chinese, Korean
+  • Customizable keyboard shortcuts for quick access
+  • Dark and Light mode interface
+  • Floating translation popup for background mode
+  • Bilingual interface (English and Spanish)
+  • Start with Windows option
+
+--------------------------------------------------------------------------------
+                                 REQUIREMENTS
+--------------------------------------------------------------------------------
+
+  • Windows 10/11
+  • Internet connection for translation services
+  • Windows OCR language packs for desired source languages
+
+--------------------------------------------------------------------------------
+                                    AUTHOR
+--------------------------------------------------------------------------------
+
+  Developed by Luna (.moonlht)
+  
+  Contact:
+    • GitHub:  https://github.com/moon-lht
+    • Discord: .moonlht
+    • Email:   littlemoony922@gmail.com
+
+
+================================================================================
+                                    LICENSE
+================================================================================
+
 MIT License
 
 Copyright (c) 2026 Luna
@@ -19,3 +66,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+================================================================================
